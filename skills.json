@@ -1,0 +1,67 @@
+[
+    
+  
+    
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    
+    {
+        "name": "React",
+        "icon": "https://img.icons8.com/plasticine/48/react.png"
+    },
+    
+    {
+        "name": "Tailwind",
+        "icon": "https://img.icons8.com/fluency/48/tailwind_css.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/fluency/48/bootstrap.png"
+    },  
+   
+    {
+        "name": "Node.js",
+        "icon": "https://img.icons8.com/color/48/nodejs.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"
+    },
+    {
+        "name": "Php",
+        "icon": "https://img.icons8.com/officel/55/php-logo.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/c-plus-plus-logo.png"
+    },
+    
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/3d-fluency/48/github.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/3d-fluency/48/python.png"
+    }
+    
+]
